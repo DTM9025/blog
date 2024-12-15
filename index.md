@@ -5,3 +5,5 @@
 layout: home
 ---
 Hi! Welcome to my blog! This will contain sporadic postings of various video game/media topics that I feel like sharing and writing up. It will mainly be for series that I am a fan of outside of Fire Emblem Heroes, but it can feature FEH things as well that wouldn't be that great in a video. Hope you enjoy my rambling thoughts!
+
+[Return to Home Page](https://dtm9025.github.io)
