@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog 1: Hello World!"
+title:  "Hello World!"
 ---
 Hello everyone! Welcome to the first post of my blog! I'm pretty excited to be launching this as another platform dedicated to whatever ramblings I have going on in my head. Here you will find my thoughts on various video game/media topics, not just about Fire Emblem, but other series that I'm interested in as well. This is something I've been thinking about doing for a while and I'm happy to finally start it!
 
