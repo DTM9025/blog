@@ -23,3 +23,5 @@ One thing I will say is that this will not have any IRL topics, whether regardin
 ## Look Forward to Future Posts!
 
 So yeah! Can't wait to start posting on this blog! I hope you will follow this by subscribing to the [RSS feed](https://dtm9025.github.io/blog/feed.xml) (do folks still use RSS?). Look forward to the first post probably sometime either this month or next month! Thank you everyone for reading!
+
+![Lucina Waving Hi](/blog/assets/images/dtmWave.png)
